@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Los Altos Construction",
+    "phone": "+15629971220",
+    "category": "siding installer",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach Siding Experts",
+      "heroSubline": "Protect your home with durable, beautiful siding. Los Altos Construction delivers expert installation and lasting results across Southern California.",
+      "aboutTitle": "Built on Quality, Rooted in Long Beach",
+      "aboutText": [
+        "Los Altos Construction started with a simple goal: to provide Long Beach homeowners with top-quality siding solutions and unmatched craftsmanship. We saw the need for a reliable contractor who understood the unique challenges of our coastal climate and the diverse architectural styles of our neighborhoods, from Belmont Shore to Bixby Knolls.",
+        "Our approach is straightforward: we listen to your needs, offer honest advice, and deliver exceptional work. We believe in clear communication, meticulous attention to detail, and using only the best materials to ensure your siding stands the test of time. We tackle every project with the same dedication, from small repairs to complete home transformations.",
+        "As a Long Beach-based company, we're committed to giving back to the community that has supported us. We actively participate in local initiatives and strive to minimize our environmental impact through responsible waste management and sustainable material sourcing. Los Altos Construction is more than just a business; we're your neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach's climate and architectural styles, ensuring the perfect siding solution for your home."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest-quality siding products from trusted manufacturers, offering superior durability and aesthetics."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team of installers is trained to deliver flawless workmanship and lasting results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed estimates with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Ready to Upgrade Your Home's Siding?",
+      "ctaSubline": "Contact Los Altos Construction today for a free consultation and discover the difference quality siding can make."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and versatile vinyl siding solutions for Long Beach homes.",
+        "description": "Vinyl siding is a popular choice for Long Beach homeowners seeking a cost-effective and low-maintenance siding option. At Los Altos Construction, we offer a wide variety of vinyl siding styles, colors, and textures to complement any architectural design, from classic Craftsman bungalows to modern waterfront developments. Our expert installers ensure a precise and secure fit, protecting your home from the elements and enhancing its curb appeal for years to come.\n\nWe understand the challenges posed by Long Beach's warm, dry climate and intense UV exposure. That's why we only use premium vinyl siding products that are resistant to fading, cracking, and warping. Our team will work with you to select the perfect vinyl siding to meet your aesthetic preferences and budget requirements.\n\nFrom initial consultation to final inspection, Los Altos Construction is committed to providing exceptional service and complete customer satisfaction. We take pride in our workmanship and stand behind every vinyl siding installation with a comprehensive warranty.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and preferences, providing expert guidance on vinyl siding options.",
+          "Step 2: Precise Measurement and Material Selection – We take accurate measurements and help you choose the perfect vinyl siding color and style.",
+          "Step 3: Professional Installation – Our skilled installers ensure a flawless and weather-tight installation.",
+          "Step 4: Final Inspection and Cleanup – We conduct a thorough inspection and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Wide variety of styles and colors",
+          "Resistant to fading, cracking, and warping"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Long Beach's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-40 years in Long Beach's climate. Our premium vinyl siding products are specifically designed to withstand the challenges of our warm, dry climate and intense UV exposure."
+          },
+          {
+            "question": "Is vinyl siding environmentally friendly?",
+            "answer": "Vinyl siding is a recyclable material, and many manufacturers are now using recycled content in their products. It also helps to improve energy efficiency by providing an extra layer of insulation for your home."
+          },
+          {
+            "question": "How much does vinyl siding installation cost?",
+            "answer": "The cost of vinyl siding installation varies depending on the size of your home, the type of vinyl siding you choose, and the complexity of the project. Contact us for a free, no-obligation estimate."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and fire-resistant fiber cement siding for enduring beauty and protection.",
+        "description": "Fiber cement siding is an increasingly popular choice for Long Beach homeowners seeking exceptional durability, fire resistance, and aesthetic versatility. Los Altos Construction specializes in the expert installation of fiber cement siding, offering a wide range of styles and textures to complement any architectural design, from classic Craftsman homes to modern residences.\n\nFiber cement siding is particularly well-suited to Long Beach's climate, providing superior protection against fire, moisture, and pests. It's also resistant to warping, cracking, and fading, ensuring lasting beauty and value for your home. Our skilled installers are trained to handle fiber cement siding with precision and care, ensuring a seamless and weather-tight installation.\n\nWe partner with leading fiber cement siding manufacturers to offer a wide selection of colors, styles, and textures, including options that mimic the look of wood, stucco, and brick. Our team will work with you to design a siding solution that perfectly complements your home's architecture and enhances its curb appeal.",
+        "process": [
+          "Step 1: Design Consultation – We help you choose the perfect fiber cement siding style and color for your home.",
+          "Step 2: Precise Cutting and Fitting – Our skilled installers cut and fit the fiber cement siding with meticulous attention to detail.",
+          "Step 3: Secure Installation – We use specialized fasteners to ensure a secure and weather-tight installation.",
+          "Step 4: Painting and Finishing – We apply high-quality paint to protect the fiber cement siding and enhance its beauty."
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Excellent fire resistance",
+          "Resistant to moisture and pests",
+          "Wide range of styles and textures"
+        ],
+        "faq": [
+          {
+            "question": "Is fiber cement siding a good choice for earthquake-prone areas like Long Beach?",
+            "answer": "Yes, fiber cement siding is a durable and resilient material that can withstand seismic activity better than some other siding options. Its inherent strength and proper installation contribute to its ability to resist damage from earthquakes."
+          },
+          {
+            "question": "Does fiber cement siding require special maintenance?",
+            "answer": "Fiber cement siding requires minimal maintenance. It's resistant to rot, pests, and fire, and it can be easily cleaned with a garden hose and mild detergent. Periodic painting or sealing may be required to maintain its appearance and protect it from the elements."
+          },
+          {
+            "question": "What is the lifespan of fiber cement siding?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50 years or more. Its durability and resistance to the elements make it a long-lasting and cost-effective siding option."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Timeless beauty and natural warmth with expertly installed wood siding.",
+        "description": "For homeowners seeking a classic and elegant look, wood siding offers unparalleled beauty and natural warmth. Los Altos Construction specializes in the installation of wood siding, providing expert craftsmanship and attention to detail to ensure a lasting and beautiful finish. We offer a variety of wood siding options, including cedar, redwood, and pine, each with its unique characteristics and aesthetic appeal.\n\nWe understand the importance of proper installation and maintenance to protect wood siding from the elements. Our skilled installers use proven techniques to ensure a weather-tight and durable installation, preventing moisture damage and prolonging the life of your siding. We also offer expert advice on painting, staining, and sealing to maintain the beauty and integrity of your wood siding for years to come.\n\nWood siding requires more maintenance than other siding options, but the natural beauty and warmth it provides are well worth the effort. Los Altos Construction is committed to providing exceptional service and guidance to help you protect and preserve your wood siding for generations to come.",
+        "process": [
+          "Step 1: Wood Selection – We help you choose the perfect wood species and style for your home.",
+          "Step 2: Precise Cutting and Fitting – Our skilled installers cut and fit the wood siding with meticulous attention to detail.",
+          "Step 3: Proper Nailing and Fastening – We use the correct fasteners to ensure a secure and lasting installation.",
+          "Step 4: Priming and Painting/Staining – We properly prime and paint or stain the wood siding to protect it from the elements."
+        ],
+        "benefits": [
+          "Classic and elegant appearance",
+          "Natural warmth and beauty",
+          "Can be painted or stained to match any color scheme",
+          "Environmentally friendly and sustainable option"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood siding is best for Long Beach's climate?",
+            "answer": "Cedar and redwood are excellent choices for Long Beach's climate due to their natural resistance to moisture, decay, and insects. They also hold paint and stain well, providing long-lasting protection and beauty."
+          },
+          {
+            "question": "How often should wood siding be painted or stained?",
+            "answer": "Wood siding should be painted or stained every 3-5 years, depending on the exposure to the elements. Regular maintenance will help to protect the wood from moisture damage and prolong its lifespan."
+          },
+          {
+            "question": "What are the signs that wood siding needs to be replaced?",
+            "answer": "Signs that wood siding needs to be replaced include rot, decay, insect infestation, warping, cracking, and peeling paint or stain."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to fix damage and restore your home's protection.",
+        "description": "Even the most durable siding can sustain damage over time due to weather, pests, or accidents. Los Altos Construction offers comprehensive siding repair services to address any issue, from minor cracks and dents to extensive rot and decay. We understand the importance of prompt and effective siding repair to protect your home from further damage and maintain its curb appeal.\n\nOur skilled technicians are experienced in repairing all types of siding, including vinyl, fiber cement, wood, and metal. We use high-quality materials and proven techniques to ensure a seamless and lasting repair. Whether you need a single panel replaced or a complete section of siding restored, we have the expertise to get the job done right.\n\nWe offer free inspections and estimates for all siding repair projects. Our team will assess the damage, provide a detailed repair plan, and offer transparent pricing. We're committed to providing exceptional service and complete customer satisfaction.",
+        "process": [
+          "Step 1: Thorough Inspection – We carefully assess the damage to your siding.",
+          "Step 2: Precise Matching – We find the closest match to your existing siding material and color.",
+          "Step 3: Expert Repair or Replacement – We expertly repair or replace damaged siding panels.",
+          "Step 4: Seamless Finishing – We ensure a seamless and weather-tight finish."
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Maintains curb appeal",
+          "Extends the life of your siding",
+          "Cost-effective solution for minor damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs to be repaired?",
+            "answer": "Signs that your siding needs to be repaired include cracks, dents, holes, rot, decay, loose panels, and peeling paint."
+          },
+          {
+            "question": "Can you repair siding that has been damaged by termites?",
+            "answer": "Yes, we can repair siding that has been damaged by termites. We will remove the damaged siding, treat the area for termites, and install new siding to protect your home."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair varies depending on the extent of the damage, the type of siding, and the complexity of the project. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Complete Siding Replacement",
+        "shortDescription": "Transform your home with a complete siding replacement for enhanced beauty and protection.",
+        "description": "When siding is severely damaged or outdated, a complete siding replacement may be the best option. Los Altos Construction offers comprehensive siding replacement services, providing expert guidance and craftsmanship to transform your home's appearance and protect it from the elements. We offer a wide variety of siding options, including vinyl, fiber cement, wood, and metal, to suit any architectural style and budget.\n\nOur team will work with you to select the perfect siding to meet your aesthetic preferences and performance requirements. We handle every aspect of the siding replacement process, from removing the old siding to installing the new siding with precision and care. We also ensure proper insulation and weatherproofing to improve your home's energy efficiency and protect it from moisture damage.\n\nLos Altos Construction is committed to providing exceptional service and complete customer satisfaction. We offer free consultations and estimates for all siding replacement projects. Our team will assess your needs, provide a detailed proposal, and answer any questions you may have.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and preferences, providing expert guidance on siding options.",
+          "Step 2: Removal of Old Siding – We safely and efficiently remove your old siding.",
+          "Step 3: Installation of New Siding – Our skilled installers ensure a flawless and weather-tight installation.",
+          "Step 4: Final Inspection and Cleanup – We conduct a thorough inspection and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Enhances curb appeal",
+          "Increases home value",
+          "Improves energy efficiency",
+          "Protects your home from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of a siding replacement project depends on the size of your home, the type of siding being installed, and the complexity of the project. We will provide you with a timeline during the consultation process."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "In most cases, you will need a permit for siding replacement. We can assist you with the permit application process."
+          },
+          {
+            "question": "Will siding replacement disrupt my daily life?",
+            "answer": "We will do our best to minimize disruption to your daily life during the siding replacement process. We will work efficiently and keep the job site clean and organized."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-siding",
+        "name": "Commercial Siding Services",
+        "shortDescription": "Durable and professional siding solutions for commercial buildings in Long Beach.",
+        "description": "Los Altos Construction provides expert commercial siding services for businesses throughout Long Beach and the surrounding areas. We understand the unique needs of commercial properties and offer a wide range of siding options to enhance the appearance, durability, and energy efficiency of your building. From retail storefronts to office buildings, we have the expertise to deliver exceptional results.\n\nWe offer a variety of commercial siding options, including metal, fiber cement, and vinyl, each with its own advantages in terms of durability, aesthetics, and cost-effectiveness. Our team will work with you to select the perfect siding to meet your specific needs and budget. We also offer expert installation services, ensuring a seamless and professional finish.\n\nLos Altos Construction is committed to providing exceptional service and complete customer satisfaction. We understand the importance of minimizing disruption to your business operations and will work efficiently to complete your siding project on time and within budget.",
+        "process": [
+          "Step 1: Consultation and Planning – We discuss your needs and develop a customized siding solution.",
+          "Step 2: Material Selection – We help you choose the best siding material for your commercial building.",
+          "Step 3: Professional Installation – Our experienced team ensures a precise and durable installation.",
+          "Step 4: Project Completion – We conduct a final inspection and ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Enhances the appearance of your commercial building",
+          "Improves energy efficiency",
+          "Provides long-lasting protection",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial buildings do you provide siding services for?",
+            "answer": "We provide siding services for a wide range of commercial buildings, including retail stores, office buildings, restaurants, warehouses, and more."
+          },
+          {
+            "question": "How long does commercial siding installation take?",
+            "answer": "The duration of commercial siding installation depends on the size and complexity of the project. We will provide you with a timeline during the consultation process."
+          },
+          {
+            "question": "Do you offer warranties on commercial siding installations?",
+            "answer": "Yes, we offer comprehensive warranties on all of our commercial siding installations. Contact us for details."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Los Altos Construction is proud to offer our expert siding installation services to the residents of Los Angeles. With a rich architectural history dating back to the 1920s, particularly the prevalence of Spanish Colonial Revival style homes, Los Angeles requires a siding contractor with a keen eye for detail and respect for historical aesthetics. We understand the unique challenges and opportunities presented by these classic homes, ensuring that any new siding complements the existing character and enhances the overall curb appeal. We're also experienced with modern homes and can provide siding services for those properties as well. \n\nOur team is well-versed in the specific needs of Los Angeles homeowners, from navigating local building codes to selecting materials that can withstand the warm, dry climate. We are committed to providing durable, beautiful, and energy-efficient siding solutions that protect your home and increase its value. We source our materials from trusted suppliers and guarantee high-quality workmanship.",
+        "localContext": "Los Angeles' architectural landscape is defined by its 1920s Spanish Colonial Revival style and enjoys a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Los Altos Construction provides premier siding services in Pasadena, CA. Pasadena is known for its beautiful 1910s-30s Craftsman bungalows, requiring a siding contractor with expertise in preserving the historical integrity of these homes. We understand the nuances of working with these architectural gems, ensuring that any new siding seamlessly integrates with the existing design and enhances its charm. \n\nWe tailor our services to meet the specific needs of Pasadena homeowners, offering a wide range of siding options that complement the Craftsman aesthetic. Our experienced team is dedicated to providing exceptional workmanship and using high-quality materials that can withstand the warm, dry climate of Pasadena. Whether you need a repair, replacement, or new siding installation, Los Altos Construction is your trusted partner.",
+        "localContext": "Pasadena is characterized by its beautiful 1910s-30s Craftsman bungalows and a warm, dry climate throughout the year.",
+        "nearbyAreas": [
+          "South Pasadena",
+          "San Marino",
+          "Altadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Los Altos Construction is proud to serve the residents of Irvine with top-notch siding installation and repair services. Irvine is a master-planned community featuring homes built from the 1970s to the present day. This diverse housing stock requires a siding contractor with expertise in a variety of architectural styles and construction techniques.\n\nWe offer a wide range of siding options to suit the needs of Irvine homeowners, from classic vinyl siding to modern fiber cement. Our experienced team is committed to providing exceptional workmanship and using high-quality materials that can withstand the warm, dry climate of Irvine. Whether you're looking to update your home's curb appeal or improve its energy efficiency, Los Altos Construction is here to help.",
+        "localContext": "Irvine is a master-planned community with homes built from the 1970s to the present, enjoying a warm and dry climate year-round.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Los Altos Construction is your trusted siding contractor in Santa Clarita, CA. Santa Clarita is comprised of newer master-planned communities constructed from the 1990s to the 2020s. These communities often feature modern architectural styles and require a siding contractor with experience in contemporary building techniques.\n\nWe offer a wide selection of siding materials to complement the modern aesthetic of Santa Clarita homes, including vinyl, fiber cement, and wood siding. Our experienced team is dedicated to providing exceptional workmanship and using high-quality materials that can withstand the warm, dry climate of Santa Clarita. We provide siding services for new construction and existing homes.",
+        "localContext": "Santa Clarita is known for its newer master-planned communities built from the 1990s to the 2020s, and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Los Altos Construction offers expert siding services to homeowners in Torrance, CA. Torrance is largely composed of 1950s-60s post-war homes, requiring a siding contractor with experience in the unique challenges and opportunities presented by these properties. We understand the importance of preserving the character of these homes while providing modern siding solutions.\n\nWe offer a variety of siding options to complement the architectural style of Torrance homes, from traditional wood siding to durable vinyl siding. Our experienced team is committed to providing exceptional workmanship and using high-quality materials that can withstand the warm, dry climate of Torrance. We can repair or replace your siding.",
+        "localContext": "Torrance features many 1950s-60s post-war homes and a warm, dry climate throughout the year.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Los Altos Construction is proud to offer comprehensive siding services to the residents of Long Beach, CA. From historic craftsman bungalows to modern beachfront properties, Long Beach boasts a diverse range of architectural styles. Our team has the experience and expertise to handle any siding project, no matter the size or complexity. We understand the unique challenges of working with older homes, as well as the demands of new construction.\n\nWe are committed to providing our Long Beach customers with top-quality materials and exceptional workmanship. We offer a wide variety of siding options to suit every style and budget, and our experienced installers will ensure that your new siding is installed correctly and efficiently. We take pride in helping our customers improve the look and value of their homes.",
+        "localContext": "Long Beach features a diverse range of architectural styles, from historic craftsman bungalows to modern beachfront properties, and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Los Altos Construction is dedicated to providing Anaheim homeowners with exceptional siding services. Anaheim's diverse housing stock, ranging from mid-century homes to newer developments, requires a siding contractor with broad expertise. We understand the specific needs of Anaheim residents and are committed to delivering quality workmanship and reliable service.\n\nWe offer a wide range of siding options to suit any style and budget, ensuring that your home is protected and looks its best. Our experienced team will work closely with you to choose the right siding material and ensure a flawless installation. We prioritize customer satisfaction and strive to exceed your expectations.",
+        "localContext": "Anaheim features a mix of mid-century homes and newer developments, and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Los Altos Construction provides expert siding services to homeowners in Huntington Beach, CA. Known for its coastal charm and diverse architectural styles, Huntington Beach requires a siding contractor with experience in handling various types of homes. We are committed to providing high-quality siding solutions that enhance the beauty and durability of your home.\n\nOur team is skilled in installing a variety of siding materials, from traditional wood siding to modern fiber cement and vinyl options. We understand the importance of protecting your home from the coastal elements and offer siding solutions that are both beautiful and durable. We deliver top-notch results.",
+        "localContext": "Huntington Beach is known for its coastal charm and diverse architectural styles, and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Garden Grove",
+        "slug": "garden-grove-ca",
+        "state": "CA",
+        "content": "Los Altos Construction is a leading provider of siding services in Garden Grove, CA. With a mix of older and newer homes, Garden Grove presents diverse siding needs. We are equipped to handle any siding project, ensuring that your home is protected and looks its best. We provide siding services for new constructions and existing homes.\n\nWe offer a comprehensive range of siding options, including vinyl, wood, and fiber cement, to complement the architectural style of your home. Our experienced team is dedicated to providing exceptional workmanship and using high-quality materials that can withstand the warm, dry climate of Garden Grove. We provide siding repairs and installations.",
+        "localContext": "Garden Grove features a mix of older and newer homes and a warm, dry climate throughout the year.",
+        "nearbyAreas": [
+          "Westminster",
+          "Santa Ana",
+          "Anaheim"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Los Altos Construction did an amazing job installing new vinyl siding on my Long Beach home. The crew was professional, efficient, and meticulous. My house looks brand new, and I've already received compliments from my neighbors. Great price, great service!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had some storm damage to my fiber cement siding, and Los Altos Construction came out quickly to assess the damage and provide a repair quote. They were able to match the existing siding perfectly, and the repair is seamless. Highly recommend their siding repair services!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "We chose Los Altos Construction to install wood siding on our Craftsman bungalow in Belmont Shore. They did an excellent job with the installation, and the wood siding looks beautiful. The team was very knowledgeable and helpful throughout the entire process.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "After getting several quotes, we decided to go with Los Altos Construction for our complete siding replacement project. They offered a competitive price and a clear timeline. The crew was professional and courteous, and they completed the project on time and within budget. Our home looks fantastic!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Commercial Siding",
+        "text": "Los Altos Construction installed new siding on our retail building in Long Beach. They were very responsive to our needs and provided a high-quality installation. We are very happy with the results.",
+        "date": "2024-07-19"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Siding Repair",
+        "text": "Fast, reliable, and fairly priced. Los Altos Construction fixed the damaged siding on my house after a tree fell on it. They were able to match the color perfectly and you can't even tell there was any damage. I would definitely use them again.",
+        "date": "2024-06-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Los Altos Construction | Siding Installation Long Beach",
+        "description": "Expert siding installation and repair in Long Beach, CA. Vinyl, fiber cement, wood siding. Free quotes. Call +15629971220."
+      },
+      "about": {
+        "title": "About Los Altos Construction | Long Beach Siding Experts",
+        "description": "Learn about Los Altos Construction, a trusted siding installer in Long Beach, CA. Quality workmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Siding Services | Los Altos Construction Long Beach",
+        "description": "Comprehensive siding services in Long Beach, CA. Vinyl, fiber cement, wood siding installation and repair. Free estimates."
+      },
+      "contact": {
+        "title": "Contact Los Altos Construction | Long Beach Siding",
+        "description": "Contact Los Altos Construction for siding installation and repair in Long Beach, CA. Get a free quote today! Call +15629971220."
+      },
+      "reviews": {
+        "title": "Los Altos Construction Reviews | Long Beach Siding",
+        "description": "Read reviews for Los Altos Construction, a leading siding installer in Long Beach, CA. See what our customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Los Altos Construction",
+        "description": "Los Altos Construction provides siding services in Long Beach and surrounding areas. Find out if we serve your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "commercial-siding": "/images/service-commercial-siding.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-siding": {
+        "src": "/images/service-commercial-siding.webp",
+        "srcset": "/images/service-commercial-siding-400w.webp 400w, /images/service-commercial-siding-800w.webp 800w, /images/service-commercial-siding-1200w.webp 1200w, /images/service-commercial-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

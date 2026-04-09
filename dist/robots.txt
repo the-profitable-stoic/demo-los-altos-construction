@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-los-altos-construction.dream-surge.com/sitemap-index.xml
